@@ -289,5 +289,7 @@ print(f"Confidence: {result['confidence']:.2%}")
 This project is for educational purposes as part of an ML assignment.
 
 ---
+![Screenshot_16-8-2025_193836_localhost](https://github.com/user-attachments/assets/d1e4061e-a254-4f88-8b0e-5bf474acc985)
+
 
 **🌸 Ready to classify some flowers? Visit http://localhost:8002 to get started! 🌸**
