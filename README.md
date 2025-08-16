@@ -4,6 +4,9 @@
 
 Successfully implemented a complete FastAPI-based machine learning service for Iris flower classification with an **interactive web interface** that exceeds the assignment requirements. The application now features a beautiful, user-friendly web UI alongside the robust API functionality.
 
+![Screenshot_16-8-2025_1222_localhost](https://github.com/user-attachments/assets/aa7c0345-3576-44c0-8b1d-7d6d8d21dc04)
+
+
 ## ✅ Requirements Met
 
 ### 1. Machine Learning Model
@@ -112,6 +115,8 @@ cd "e:\Projects\AIML Projects\FlowerPowerAI"
 
 - **🌸 Interactive Web Interface**: http://localhost:8002 ⭐ **NEW!**
 - **📚 API Documentation**: http://localhost:8002/docs
+![Screenshot_16-8-2025_121514_localhost](https://github.com/user-attachments/assets/d46446bf-d50e-4bfd-b198-256799a4334a)
+
 - **📖 Alternative Docs**: http://localhost:8002/redoc
 
 ### Using the Interactive Interface
@@ -167,7 +172,7 @@ _Note: Update test_api.py BASE_URL to use port 8002 for testing the new interfac
    - Interactive web interface for easy testing
    - Proper logging and error handling
 
-## 🎯 Assignment Criteria Satisfaction
+## 🎯 Criteria Satisfaction
 
 - ✅ **Logistic Regression Model**: Implemented and trained
 - ✅ **FastAPI Framework**: Complete implementation
