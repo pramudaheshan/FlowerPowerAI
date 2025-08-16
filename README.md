@@ -1,4 +1,4 @@
-# Iris Flower Classification API With Itractive Web Interface
+# Iris Flower Classification API With Interactive Web Interface
 
 ## Project Overview
 
